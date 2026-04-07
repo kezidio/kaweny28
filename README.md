@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a recent computer science grad based in Germany and looking for new opportunities.
+I was born and raised in Brazil and love exploring the world.
 
 I care deeply about effective and readble coding projects, thoughtful engineering, and making interfaces that feel as good as they function.
 
